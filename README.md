@@ -1,2 +1,2 @@
 # Gerador-de-Senhas
-Aplicativo gerador de senhas desenvolvido em React Native com Expo
+Projeto desenvolvido durante o React Native Insider 2.0 do Sujeito Programador
